@@ -1,0 +1,40 @@
+/* Button icons */
+.ad__btn-icon {
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    display: inline-block;
+    line-height: 1;
+    font-size: 1em;
+    text-decoration: none !important;
+    color: #232323;
+}
+
+.ad__btn-icon:hover {
+    color: #232323;
+    transition: color 0.3s;
+}
+
+.ad__btn-icon.text-danger {
+    color: #d9534f;
+}
+
+.ad__btn-icon.text-primary {
+    color: #428bca;
+}
+
+.ad__btn-icon.text-success {
+    color: #5cb85c;
+}
+
+.ad__btn-icon.text-info {
+    color: #5bc0de;
+}
+
+.ad__btn-icon.text-muted {
+    color: #919191;
+}
+
+.ad__btn-icon.text-muted:hover {
+    color: #3b3b3b;
+}

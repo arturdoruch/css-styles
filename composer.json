@@ -1,0 +1,11 @@
+{
+    "name": "arturdoruch/css-styles",
+    "description": "CSS styles for common modules.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Doruch",
+            "email": "arturdoruch@interia.pl"
+        }
+    ]
+}
